@@ -1,4 +1,4 @@
-# HTML-21-details-tags
+# Etiqueta HTML <details>
 
 👋 Bienvenidos a CodingTube, un canal dedicado a los apasionados por el código. Si te gusta programar y quieres aprender más acerca de este fascinante mundo, estás en el lugar indicado.
 
@@ -7,11 +7,14 @@
 ✅YouTube:
 https://www.youtube.com/CodingTube
 
-✅Twitter:
-https://twitter.com/CodingTube
+✅TikTok:
+https://www.tiktok.com/@codingtube
 
 ✅WEB:
 https://coding-tube.com/
+
+✅Twitter:
+https://twitter.com/CodingTube
 
 ►CURSOS:
 
